@@ -8,6 +8,11 @@
     font-size: 36px;
 }
 
-.third {
+.adjust-font-size {
     font-size: 24px;
+}
+
+#number-4 {
+    background-color: hsl(120, 67%, 60%);
+    font-weight: bold;
 }
